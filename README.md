@@ -1,4 +1,4 @@
-**Titel lalalaalal**
+**Hepatitis-E-Tests bei Blutspenden in der Schweiz**
 
 *Leistungsnachweis Python (BMLD Informatik 1)*
 
@@ -8,4 +8,4 @@
 - Raissa Tropeano (troperai@students.zhaw.ch)
 
 **Projektidee**
-blahh blahh blahh
+„Wie viele Hepatitis-E-positive Blutspenden wurden in der Schweiz pro Jahr entdeckt?“
